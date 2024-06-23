@@ -1,2 +1,2 @@
 # IT-Class-2024
-For my summer IT class
+This is my repo for my summer IT class. I will be putting all my projects here.
