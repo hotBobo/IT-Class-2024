@@ -4,3 +4,5 @@ This is my repo for my summer IT class. I will be putting all my projects here.
 #### RevivalBubbleStore.png should be used to promote the sale of Bubbles
 ### Filename: PasswordLogic.pdf
 #### PasswordLogic.pdf should be used to determine whether a user has input an incorrect password 3 times. If so, they will be locked out.
+### Filename: Python.png
+#### Python.png is a program that assigns the values 20 to x and 15 to y and then adds them together to get the variable z which is 35. It then prints the final value.
