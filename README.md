@@ -8,3 +8,7 @@ This is my repo for my summer IT class. I will be putting all my projects here.
 #### Python.png is a program that assigns the values 20 to x and 15 to y and then adds them together to get the variable z which is 35. It then prints the final value.
 ## Filename: DanielPilipchukFlowerClass.pdf
 #### DanielPilipchukFlowerClass.pdf lists an OOP class for flowers.
+## Filename: PythonOOP.png
+#### PythonOOP.png image of a program that uses Object Oriented Programming to create a Flower class and print text using its attributes and methods.
+## Filename: Flower.py
+#### Flower.py is a Python program that uses Object Oriented Programming to create a Flower class and print text using its attributes and methods.
