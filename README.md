@@ -12,3 +12,5 @@ This is my repo for my summer IT class. I will be putting all my projects here.
 #### PythonOOP.png image of a program that uses Object Oriented Programming to create a Flower class and print text using its attributes and methods.
 ## Filename: Flower.py
 #### Flower.py is a Python program that uses Object Oriented Programming to create a Flower class and print text using its attributes and methods.
+## Filename: NetworkDesign.jpeg
+#### NetworkDesign.jpeg uses the infrastructure topology to connect various devices in a network. I chose the infrastructure topology because it is one of the most common topologies used and has both wired and wireless functionality.
