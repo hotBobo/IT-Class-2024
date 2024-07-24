@@ -16,3 +16,5 @@ This is my repo for my summer IT class. I will be putting all my projects here.
 #### NetworkDesign.jpeg uses the infrastructure topology to connect various devices in a network. I chose the infrastructure topology because it is one of the most common topologies used and has both wired and wireless functionality.
 ## Filename: SQLQuery.png
 #### SQLQuery.png sorts through a database to find products under $100 and sorts them by price.
+## Filename: MyHTML.png
+#### MyHTML.png is an HTML website with links and a description for an imaginary company called Revival Bubble Store. Link: https://revivalbubblestore.w3spaces.com/index.html
